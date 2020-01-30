@@ -5,7 +5,7 @@
   "author": "Leo Saglia <leosaglia@hotmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon index.js"
+    "dev": "nodemon src/index.js"
   },
   "dependencies": {
     "express": "^4.17.1"
